@@ -1,6 +1,9 @@
-# media_songs
+# media_Player_ UI
 
 A new Flutter project.
+
+![Screenshot_1657949691](https://user-images.githubusercontent.com/66769129/179341831-6948dc04-9180-4809-9e0b-f5c76e0ac67b.png)
+
 
 ## Getting Started
 
